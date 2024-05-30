@@ -1,3 +1,6 @@
+![Screenshot (63)](https://github.com/Anirudh-M-C/Netflix/assets/110151367/19b63d96-5564-4a05-9104-d4485e7fea91)
+
+![Screenshot (65)](https://github.com/Anirudh-M-C/Netflix/assets/110151367/6a093dac-75da-4730-afbc-cc1e8cd881d0)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
