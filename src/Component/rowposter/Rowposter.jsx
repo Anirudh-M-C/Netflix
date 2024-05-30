@@ -11,7 +11,7 @@ const Rowposter = (props) => {
   useEffect(() => {
     axios.get(props.url)
       .then(response => {
-        console.log(response.data);
+        console.log(response.data)
         setMovies(response.data.results);
       })
       .catch(err => {
